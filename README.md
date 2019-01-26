@@ -2,7 +2,7 @@
 
 ![](deep_park.gif)
 
-Features:
+# Features:
 - [Fastai library](https://github.com/fastai) (lesson 1) is utilized to train Resnet101 based deep neural network classifier which classifies empty space and car
 - Laplacian opertor gives edges and their density is used to check the status of a parking spot and then whenever there's any change in the status of any parking spot, classifier is introduced at the spot to determine if its a car and change the color of the spot to indicate whether it is occupied or empty
 - OpenCV is used and its inbuilt functions are played with, to observe their efficiency
